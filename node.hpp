@@ -1,6 +1,6 @@
+//Alonz1414@gmail.com
 #ifndef NODE_HPP
 #define NODE_HPP
-
 #include <vector>
 #include <cstddef>
 #include <iostream>

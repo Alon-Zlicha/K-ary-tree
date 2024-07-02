@@ -1,3 +1,5 @@
+Alonz1414@gmail.com
+
 # K-ary_trees project
 
 This project provides a versatile implementation of hierarchical data structures using templates in C++, capable of handling various data types including complex numbers. It supports visualization using SFML and includes iterators for traversal methods specific to different tree configurations.

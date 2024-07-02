@@ -1,3 +1,4 @@
+//Alonz1414@gmail.com
 #ifndef TREE_HPP
 #define TREE_HPP
 
@@ -425,7 +426,7 @@ public:
             return &(node->get_value());
         }
     };
-    
+
     // Heap iterator
     class HeapIterator
     {

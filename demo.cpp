@@ -1,6 +1,4 @@
-/**
- * Demo app for Ex4
- */
+//Alonz1414@gmail.com
 #include <iostream>
 #include <string>
 #include "node.hpp"
